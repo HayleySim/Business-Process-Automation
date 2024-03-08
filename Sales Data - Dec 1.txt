@@ -1,0 +1,47 @@
+Dear team,
+ 
+Please see the sales data for 1st December as below.
+ 
+Date         Location   Products  Q'ty          Total sales amount  Cur.
+01/12/2022              West Midlands         Steel         25             2500         GBP
+01/12/2022              West Midlands         Rod           350           105000    GBP
+01/12/2022              West Midlands         Bit             10             2500         GBP
+01/12/2022              West Midlands         Casing      40             2000         GBP
+01/12/2022              West Midlands         Shank       210           9450         GBP
+01/12/2022              West Midlands         Coupling  20             480           GBP
+01/12/2022              West Midlands         Other products        219           2190         GBP
+02/12/2022              West Midlands         Steel         36             3600         GBP
+02/12/2022              West Midlands         Rod           330           99000      GBP
+02/12/2022              West Midlands         Bit             20             5000         GBP
+02/12/2022              West Midlands         Casing      50             2500         GBP
+02/12/2022              West Midlands         Shank       45             2025         GBP
+02/12/2022              West Midlands         Coupling  10             240           GBP
+02/12/2022              West Midlands         Other products        213           2130         GBP
+03/12/2022              West Midlands         Steel         36             3600         GBP
+03/12/2022              West Midlands         Rod           62             18600      GBP
+03/12/2022              West Midlands         Bit             63             15750      GBP
+03/12/2022              West Midlands         Casing      58             2900         GBP
+03/12/2022              West Midlands         Shank       133           5985         GBP
+03/12/2022              West Midlands         Coupling  8                192           GBP
+03/12/2022              West Midlands         Other products        12             120           GBP
+04/12/2022              West Midlands         Steel         63             6300         GBP
+04/12/2022              West Midlands         Rod           244           73200      GBP
+04/12/2022              West Midlands         Bit             52             13000      GBP
+04/12/2022              West Midlands         Casing      63             3150         GBP
+04/12/2022              West Midlands         Shank       147           6615         GBP
+04/12/2022              West Midlands         Coupling  56             1344         GBP
+04/12/2022              West Midlands         Other products        140           1400         GBP
+05/12/2022              West Midlands         Steel         25             2500         GBP
+05/12/2022              West Midlands         Rod           366           109800    GBP
+05/12/2022              West Midlands         Bit             24             6000         GBP
+05/12/2022              West Midlands         Casing      45             2250         GBP
+05/12/2022              West Midlands         Shank       136           6120         GBP
+05/12/2022              West Midlands         Coupling  45             1080         GBP
+05/12/2022              West Midlands         Other products        145           1450         GBP
+ 
+ 
+Thank you.
+ 
+ 
+Best Regards,
+Haewon Sim

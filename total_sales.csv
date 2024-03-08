@@ -1,0 +1,141 @@
+Date,Location,Products,Q'ty,Total sales amount,Cur.
+2022-12-01,London,Steel,43,4300,GBP
+2022-12-01,London,Rod,533,159900,GBP
+2022-12-01,London,Bit,17,4250,GBP
+2022-12-01,London,Casing,30,1500,GBP
+2022-12-01,London,Shank,42,1890,GBP
+2022-12-01,London,Coupling,120,2880,GBP
+2022-12-01,London,Other products,232,2320,GBP
+2022-12-02,London,Steel,45,4500,GBP
+2022-12-02,London,Rod,650,195000,GBP
+2022-12-02,London,Bit,20,5000,GBP
+2022-12-02,London,Casing,25,1250,GBP
+2022-12-02,London,Shank,35,1575,GBP
+2022-12-02,London,Coupling,140,3360,GBP
+2022-12-02,London,Other products,295,2950,GBP
+2022-12-03,London,Steel,35,3500,GBP
+2022-12-03,London,Rod,540,162000,GBP
+2022-12-03,London,Bit,15,3750,GBP
+2022-12-03,London,Casing,26,1300,GBP
+2022-12-03,London,Shank,40,1800,GBP
+2022-12-03,London,Coupling,110,2640,GBP
+2022-12-03,London,Other products,340,3400,GBP
+2022-12-04,London,Steel,40,4000,GBP
+2022-12-04,London,Rod,560,168000,GBP
+2022-12-04,London,Bit,25,6250,GBP
+2022-12-04,London,Casing,25,1250,GBP
+2022-12-04,London,Shank,32,1440,GBP
+2022-12-04,London,Coupling,22,528,GBP
+2022-12-04,London,Other products,320,3200,GBP
+2022-12-05,London,Steel,42,4200,GBP
+2022-12-05,London,Rod,554,166200,GBP
+2022-12-05,London,Bit,39,9750,GBP
+2022-12-05,London,Casing,28,1400,GBP
+2022-12-05,London,Shank,35,1575,GBP
+2022-12-05,London,Coupling,28,672,GBP
+2022-12-05,London,Other products,310,3100,GBP
+2022-12-01,South East,Steel,20,2000,GBP
+2022-12-01,South East,Rod,300,159900,GBP
+2022-12-01,South East,Bit,15,4250,GBP
+2022-12-01,South East,Casing,18,1500,GBP
+2022-12-01,South East,Shank,32,1890,GBP
+2022-12-01,South East,Coupling,52,2880,GBP
+2022-12-01,South East,Other products,123,2320,GBP
+2022-12-02,South East,Steel,33,3300,GBP
+2022-12-02,South East,Rod,230,69000,GBP
+2022-12-02,South East,Bit,10,2500,GBP
+2022-12-02,South East,Casing,15,750,GBP
+2022-12-02,South East,Shank,20,900,GBP
+2022-12-02,South East,Coupling,80,1920,GBP
+2022-12-02,South East,Other products,295,2950,GBP
+2022-12-03,South East,Steel,29,2900,GBP
+2022-12-03,South East,Rod,245,73500,GBP
+2022-12-03,South East,Bit,25,6250,GBP
+2022-12-03,South East,Casing,30,1500,GBP
+2022-12-03,South East,Shank,30,1350,GBP
+2022-12-03,South East,Coupling,120,2880,GBP
+2022-12-03,South East,Other products,340,3400,GBP
+2022-12-04,South East,Steel,30,3000,GBP
+2022-12-04,South East,Rod,456,136800,GBP
+2022-12-04,South East,Bit,23,5750,GBP
+2022-12-04,South East,Casing,25,1250,GBP
+2022-12-04,South East,Shank,20,900,GBP
+2022-12-04,South East,Coupling,19,456,GBP
+2022-12-04,South East,Other products,145,1450,GBP
+2022-12-05,South East,Steel,20,2000,GBP
+2022-12-05,South East,Rod,145,43500,GBP
+2022-12-05,South East,Bit,10,2500,GBP
+2022-12-05,South East,Casing,16,800,GBP
+2022-12-05,South East,Shank,20,900,GBP
+2022-12-05,South East,Coupling,32,768,GBP
+2022-12-05,South East,Other products,98,980,GBP
+2022-12-01,North West,Steel,35,3500,GBP
+2022-12-01,North West,Rod,400,120000,GBP
+2022-12-01,North West,Bit,15,3750,GBP
+2022-12-01,North West,Casing,45,2250,GBP
+2022-12-01,North West,Shank,130,5850,GBP
+2022-12-01,North West,Coupling,20,480,GBP
+2022-12-01,North West,Other products,201,2010,GBP
+2022-12-02,North West,Steel,36,3600,GBP
+2022-12-02,North West,Rod,450,135000,GBP
+2022-12-02,North West,Bit,36,9000,GBP
+2022-12-02,North West,Casing,55,2750,GBP
+2022-12-02,North West,Shank,160,7200,GBP
+2022-12-02,North West,Coupling,15,360,GBP
+2022-12-02,North West,Other products,140,1400,GBP
+2022-12-03,North West,Steel,45,4500,GBP
+2022-12-03,North West,Rod,560,168000,GBP
+2022-12-03,North West,Bit,34,8500,GBP
+2022-12-03,North West,Casing,55,2750,GBP
+2022-12-03,North West,Shank,155,6975,GBP
+2022-12-03,North West,Coupling,10,240,GBP
+2022-12-03,North West,Other products,170,1700,GBP
+2022-12-04,North West,Steel,39,3900,GBP
+2022-12-04,North West,Rod,398,119400,GBP
+2022-12-04,North West,Bit,36,9000,GBP
+2022-12-04,North West,Casing,60,3000,GBP
+2022-12-04,North West,Shank,157,7065,GBP
+2022-12-04,North West,Coupling,12,288,GBP
+2022-12-04,North West,Other products,170,1700,GBP
+2022-12-05,North West,Steel,27,2700,GBP
+2022-12-05,North West,Rod,369,110700,GBP
+2022-12-05,North West,Bit,65,16250,GBP
+2022-12-05,North West,Casing,54,2700,GBP
+2022-12-05,North West,Shank,145,6525,GBP
+2022-12-05,North West,Coupling,50,1200,GBP
+2022-12-05,North West,Other products,150,1500,GBP
+2022-12-01,West Midlands,Steel,25,2500,GBP
+2022-12-01,West Midlands,Rod,350,105000,GBP
+2022-12-01,West Midlands,Bit,10,2500,GBP
+2022-12-01,West Midlands,Casing,40,2000,GBP
+2022-12-01,West Midlands,Shank,210,9450,GBP
+2022-12-01,West Midlands,Coupling,20,480,GBP
+2022-12-01,West Midlands,Other products,219,2190,GBP
+2022-12-02,West Midlands,Steel,36,3600,GBP
+2022-12-02,West Midlands,Rod,330,99000,GBP
+2022-12-02,West Midlands,Bit,20,5000,GBP
+2022-12-02,West Midlands,Casing,50,2500,GBP
+2022-12-02,West Midlands,Shank,45,2025,GBP
+2022-12-02,West Midlands,Coupling,10,240,GBP
+2022-12-02,West Midlands,Other products,213,2130,GBP
+2022-12-03,West Midlands,Steel,36,3600,GBP
+2022-12-03,West Midlands,Rod,62,18600,GBP
+2022-12-03,West Midlands,Bit,63,15750,GBP
+2022-12-03,West Midlands,Casing,58,2900,GBP
+2022-12-03,West Midlands,Shank,133,5985,GBP
+2022-12-03,West Midlands,Coupling,8,192,GBP
+2022-12-03,West Midlands,Other products,12,120,GBP
+2022-12-04,West Midlands,Steel,63,6300,GBP
+2022-12-04,West Midlands,Rod,244,73200,GBP
+2022-12-04,West Midlands,Bit,52,13000,GBP
+2022-12-04,West Midlands,Casing,63,3150,GBP
+2022-12-04,West Midlands,Shank,147,6615,GBP
+2022-12-04,West Midlands,Coupling,56,1344,GBP
+2022-12-04,West Midlands,Other products,140,1400,GBP
+2022-12-05,West Midlands,Steel,25,2500,GBP
+2022-12-05,West Midlands,Rod,366,109800,GBP
+2022-12-05,West Midlands,Bit,24,6000,GBP
+2022-12-05,West Midlands,Casing,45,2250,GBP
+2022-12-05,West Midlands,Shank,136,6120,GBP
+2022-12-05,West Midlands,Coupling,45,1080,GBP
+2022-12-05,West Midlands,Other products,145,1450,GBP

@@ -1,0 +1,36 @@
+Date,Location,Products,Q'ty,Total sales amount,Cur.
+2022-12-01,North West,Steel,35,3500,GBP
+2022-12-01,North West,Rod,400,120000,GBP
+2022-12-01,North West,Bit,15,3750,GBP
+2022-12-01,North West,Casing,45,2250,GBP
+2022-12-01,North West,Shank,130,5850,GBP
+2022-12-01,North West,Coupling,20,480,GBP
+2022-12-01,North West,Other products,201,2010,GBP
+2022-12-02,North West,Steel,36,3600,GBP
+2022-12-02,North West,Rod,450,135000,GBP
+2022-12-02,North West,Bit,36,9000,GBP
+2022-12-02,North West,Casing,55,2750,GBP
+2022-12-02,North West,Shank,160,7200,GBP
+2022-12-02,North West,Coupling,15,360,GBP
+2022-12-02,North West,Other products,140,1400,GBP
+2022-12-03,North West,Steel,45,4500,GBP
+2022-12-03,North West,Rod,560,168000,GBP
+2022-12-03,North West,Bit,34,8500,GBP
+2022-12-03,North West,Casing,55,2750,GBP
+2022-12-03,North West,Shank,155,6975,GBP
+2022-12-03,North West,Coupling,10,240,GBP
+2022-12-03,North West,Other products,170,1700,GBP
+2022-12-04,North West,Steel,39,3900,GBP
+2022-12-04,North West,Rod,398,119400,GBP
+2022-12-04,North West,Bit,36,9000,GBP
+2022-12-04,North West,Casing,60,3000,GBP
+2022-12-04,North West,Shank,157,7065,GBP
+2022-12-04,North West,Coupling,12,288,GBP
+2022-12-04,North West,Other products,170,1700,GBP
+2022-12-05,North West,Steel,27,2700,GBP
+2022-12-05,North West,Rod,369,110700,GBP
+2022-12-05,North West,Bit,65,16250,GBP
+2022-12-05,North West,Casing,54,2700,GBP
+2022-12-05,North West,Shank,145,6525,GBP
+2022-12-05,North West,Coupling,50,1200,GBP
+2022-12-05,North West,Other products,150,1500,GBP
